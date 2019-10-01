@@ -1,13 +1,11 @@
-# CMM Workbench
+# CMM
 
-Any [SWHAPPE](https://github.com/Unipisa/SWHAPPE) workbench comes with a few predefined folders, to support the users in the process. 
+### a Customisable Memory Manager
 
-Folder [raw materials](./raw_materials) is for the original materials, as they have been found or submitted.
+* [CMM metadata](https://github.com/Unipisa/CMM/tree/master/metadata)
 
-Folder [browsable source](./browsable_source) is for a browsable version of the source code. Source files, with the right extension, have to be accessible through the GitHub web interface, e.g., archives should be decompressed, code should be transcribed if provided by images, etc.
+* [CMM synthetic git](https://github.com/Unipisa/CMM/tree/SourceCode/)
 
-Folder [source](./source) is for the curated revision of the source code, as a base for the reconstruction of the development history as a git repository, i.e., a folder for each major version of the code.
+* [CMM-Depository](https://github.com/Unipisa/CMM-Depository)
 
-Folder [metadata](/.metadata) holds various files with meta information (catalogue, actors, journal) used throughout the process. 
-
-Please refear to the [SWHAPPE](https://github.com/Unipisa/SWHAPPE) guidelines for greater details. 
+* [CMM-Workbench](https://github.com/Unipisa/CMM-Workbench)
